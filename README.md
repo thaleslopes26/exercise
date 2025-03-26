@@ -1,4 +1,6 @@
 Clarification Questions
+
+
 If the user does not reset the password soon, is it possible to resend it, or does the process need to be restarted?
 
 What happens if the account creation process takes more than 3 seconds?
